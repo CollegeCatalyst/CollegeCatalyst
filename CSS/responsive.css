@@ -1,0 +1,58 @@
+@media screen and (max-width:1088px){
+        nav ul li a{
+            font-size: 30px;
+        }
+        
+        .description{
+            font-size: 14px;
+        }
+        .search{
+            display: flex;
+            justify-content: flex-start;
+        }
+       .search input{
+            align-items: center;
+            background-color: lightcyan; 
+            width: 20vw;
+            height: 2vh;
+            border-radius: 30px;
+            margin-top: 3px;
+            margin-bottom: 3px;
+            padding: 0 5px;
+            border: 2px solid black;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 15px;
+            font-weight: bolder;
+        
+       }
+       
+        .btn{
+            width: 6vw;
+            height: 2vh;
+            background-color: grey;
+            color: ivory;
+            margin: 5px 10px 3px 5px;
+            border: 2px solid black;
+            /* margin-top: 3px;
+            margin-bottom: 3px; */
+            border-radius: 20px;
+            font-family: 'Yuji Mai', serif;
+            font-weight: 900;
+
+        }
+        .btn:hover{
+            width: 6vw;
+            height: 2vh;
+            background-color: grey;
+            color: black;
+            border: 2px solid red;
+            border-radius: 20px;
+            font-family: 'Yuji Mai', serif;
+            font-weight: bolder;
+
+        }
+        .titleTime {
+            position: relative;
+            left: 20%;
+        }
+        }

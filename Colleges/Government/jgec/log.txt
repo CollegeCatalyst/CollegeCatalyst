@@ -1,0 +1,17 @@
+<tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">3</td>
+
+                                        <td style="width: 50%;">JGEC MESS</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class='ratings'>
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class='distance'>
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/j1LRcpXYGEPYPpuBA"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+                               
