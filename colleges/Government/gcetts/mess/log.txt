@@ -1,0 +1,577 @@
+<tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">5</td>
+
+                                        <td style="width: 50%;">Pole Star Mess</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.0 (1)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/TgZTgzhxoLVKPyMA6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+                                
+
+                                
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">7</td>
+
+                                        <td style="width: 50%;">Tapas Paul Mess Committee
+                                                তপস পল মেস কমিটি</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        2.0 (2)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/5AraVwVBoEtSaPbZA"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+                                
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">9</td>
+
+                                        <td style="width: 50%;">Pollution Mess
+                                                পলিউশন মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.0 (2)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/kUmyzQXafEpeRg9t6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+                               
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">11</td>
+
+                                        <td style="width: 50%;">P.G./Mess for Boys
+                                                প.গ./মেস ফর বয়স- Guest House</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/WcobqJ1yabUXzoVr9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">12</td>
+
+                                        <td style="width: 50%;">Murshidabad Mess
+                                                মুরশিদাবাদ মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.4 (5)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/XPjRfyeD5o7B1oYi6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">13</td>
+
+                                        <td style="width: 50%;">Gurukul Mess
+                                                গুরুকুল মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.3 (6)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/M8faAyhLdL4zaQHR8"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">14</td>
+
+                                        <td style="width: 50%;">Kilo ghosh mess
+                                                Backpacker Hostel</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/zwhXuVUA2CnusrwP6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">15</td>
+
+                                        <td style="width: 50%;">Saswata mess
+                                                শ্বাশত মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.3 (3)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/d4vJVvGtXnyntvpm9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">16</td>
+
+                                        <td style="width: 50%;">Naina Mess
+                                                নাইন মেস
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.2 (20)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/vF1KPkKkwj9RPqUf9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">17</td>
+
+                                        <td style="width: 50%;">Anup Mess
+                                                অনুপ মেস
+                                                Restaurant</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/R3DK6wwUqTC6apsH9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">18</td>
+
+                                        <td style="width: 50%;">Hritick Mess</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.3 (6)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://g.page/raju-mess?share"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">19</td>
+
+                                        <td style="width: 50%;">Anup Mess
+                                                অনুপ মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/fuNti9PPbWmvQ2Kr6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">20</td>
+
+                                        <td style="width: 50%;">Amit Mess
+                                                আমিত মেস
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        -</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/T182yBaRD6mYianh9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">21</td>
+
+                                        <td style="width: 50%;">RAJ MESS রাজ মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        5.0 (1)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/UrHeDUnhXvr297bL9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">22</td>
+
+                                        <td style="width: 50%;">City mess
+                                                সিটি মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.2 (9)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/ffAsLDETCVVkUkkb6"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                
+
+
+
+                                
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">25</td>
+
+                                        <td style="width: 50%;">Nani Mess
+                                                নানি মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.0 (26)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/BQq7bJ4wbiZNHnZr7"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">26</td>
+
+                                        <td style="width: 50%;">Student Mess
+                                                শিক্ষার্থীর মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.8 (46)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/DFJe8wJ5aM8EZaybA"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">27</td>
+
+                                        <td style="width: 50%;">Sanjay Mess
+                                                সঞ্জয় মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.6 (16)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://g.page/BACHELOR-GROUP?share"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">28</td>
+
+                                        <td style="width: 50%;">Asthayee Mess
+                                                অস্থায়ী মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.8 (9)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/zaUexUw3pQAyg9qr9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+                                
+
+
+
+
+
+                                
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">31</td>
+
+                                        <td style="width: 50%;">Sona Mess
+                                                সোনা মেস</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.3 (3)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/8diUT1ESrs3B9kQ3A"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                        <!-- <tr style="height: 46px;" class="tdata"> -->
+                                </tr>
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">32</td>
+
+                                        <td style="width: 50%;">Girl's Mess for Rent (Furnished)</td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        5.0 (5)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/ZVkeaoZsNdLRnkwq5"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+                                
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">34</td>
+
+                                        <td style="width: 50%;">Heaven Mess
+                                                হেভেন মেস
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.0 (2)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/8Y5dQHsrjcvRimBm9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">35</td>
+
+                                        <td style="width: 50%;">BhaiBhai Mess
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.0 (4)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/UZk9mwzpLudPmF9m9"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">36</td>
+
+                                        <td style="width: 50%;">Jaymala Mess
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        3.4 (20)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="Jaymala Mess" target="_blank"
+                                                                rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">37</td>
+
+                                        <td style="width: 50%;">Gobindo Das's Mess
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        5.0 (11)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/QkvVNvDqAwqXMYcc7"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
+
+
+
+
+
+
+                                <tr style="height: 46px;" class="tdata">
+
+                                        <td style="text-align: center; width: 5%;">38</td>
+
+                                        <td style="width: 50%;">Shyamali Mess
+                                        </td>
+
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="ratings">
+                                                        4.5 (2)</td></span>
+                                        <td style="width: 15%;"><span style="font-size: 14px;" class="distance">
+                                                 Km
+                                                </span></td>
+                                        <td style="width: 15%;"><span style="font-size: 15px;">
+                                                        <a title="View" href="https://goo.gl/maps/HM7NqZX56do3jfTR7"
+                                                                target="_blank" rel="noopener">View</a>
+                                                </span></td>
+                                </tr>
