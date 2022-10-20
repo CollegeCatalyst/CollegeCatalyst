@@ -3,14 +3,15 @@ let time;
 setInterval(() => {
   a = new Date();
   min=a.getMinutes();
+  // console.log(min);
   hour=a.getHours();
-  if(min<10) min='0'+min;
-  if(hour<10) hour='0'+hour;
-  time = a.getHours() + " : " + a.getMinutes();
+  if(min<10) min='0'+String(min);
+  if(hour<10) hour='0'+String(hour);
+  time = hour + " : " + min;
   // a.toLocaleTimeString(time)
   let setTime = document.getElementById("time");
   setTime.innerHTML = time;
-}, 60000);
+}, 1000);
 
 // border = document.getElementsByClassName("navlink")[1];
 // border.addEventListener("click", function () {
