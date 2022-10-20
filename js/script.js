@@ -2,12 +2,15 @@ let a;
 let time;
 setInterval(() => {
   a = new Date();
-
+  min=a.getMinutes();
+  hour=a.getHours();
+  if(min<10) min='0'+min;
+  if(hour<10) hour='0'+hour;
   time = a.getHours() + " : " + a.getMinutes();
   // a.toLocaleTimeString(time)
   let setTime = document.getElementById("time");
   setTime.innerHTML = time;
-}, 1000);
+}, 60000);
 
 // border = document.getElementsByClassName("navlink")[1];
 // border.addEventListener("click", function () {
